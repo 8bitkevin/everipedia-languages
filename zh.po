@@ -24,14 +24,14 @@ msgstr "+创建一个帐户/登录"
 #. 0 Messages
 #: public/messages/src/app/components/Chat/messages.json
 msgid "0 Messages"
-msgstr "消息"
+msgstr "0条消息"
 
 #. [Chat.NoParticipants]
 #. defaultMessage is:
 #. 0 Participants
 #: public/messages/src/app/components/Chat/messages.json
 msgid "0 Participants"
-msgstr "参与者"
+msgstr "0位参与者"
 
 #. [DashboardComponent.OneMonth]
 #. defaultMessage is:
@@ -87,7 +87,7 @@ msgstr "7天"
 #. A universe of knowledge.
 #: public/messages/src/app/containers/homepageContainer/homepage.container.json
 msgid "A universe of knowledge."
-msgstr "一个知识宇宙。"
+msgstr "一个知识的宇宙。"
 
 #. [Leaderboard.AllTimeCap]
 #. defaultMessage is:
@@ -127,15 +127,15 @@ msgstr "文章观点"
 #: public/messages/src/editor/components/mentions/suggestions.json
 msgid "ARTICLES"
 msgstr ""
-"文章是通过使用IPFS协议和EOS存储来进行读取的。大部分IQ通证已经在空投期间分发出"
-"去了。"
+"文章是通过使用IPFS协议和EOS存储来进行读取的。大部分IQ通证已经在空投期间已分发出"
+"去。"
 
 #. [AsSeenIn.AsSeenIn]
 #. defaultMessage is:
 #. AS SEEN IN
 #: public/messages/src/app/containers/about/as-seen.json
 msgid "AS SEEN IN"
-msgstr "如"
+msgstr "正如"
 
 #. [SubmitBoostModal.AvailableBalance]
 #. defaultMessage is:
@@ -194,7 +194,7 @@ msgstr "关于我"
 #. About Me must be longer than 3 characters
 #: public/messages/src/app/components/edit-profile/index.json
 msgid "About Me must be longer than 3 characters"
-msgstr "关于我的字数必须超过3个字符"
+msgstr "自我介绍必须不少于3个字符"
 
 #. [SubmitVoteConfirmation.Accept]
 #. defaultMessage is:
@@ -211,7 +211,7 @@ msgstr "接受"
 #. Accepted
 #: public/messages/src/app/components/SubmitVote/index.json
 msgid "Accepted"
-msgstr "公认"
+msgstr "已通过"
 
 #. [Login.Account]
 #. defaultMessage is:
@@ -239,7 +239,7 @@ msgstr "帐户名称"
 #. Active Boosts
 #: public/messages/src/app/containers/dashboard/dashboard_component.json
 msgid "Active Boosts"
-msgstr "主动提升"
+msgstr "有效助推"
 
 #. [CategoryResultCard.ActiveVoting]
 #. defaultMessage is:
@@ -250,7 +250,7 @@ msgstr "主动提升"
 #: public/messages/src/app/containers/category-results/categoryResultCard.json
 #: public/messages/src/app/containers/searchResultsFull/searchCard.json
 msgid "Active Voting"
-msgstr "积极投票"
+msgstr "有效投票"
 
 #. [Chat.ActivityThree]
 #. defaultMessage is:
@@ -301,7 +301,7 @@ msgstr "添加引文"
 #. Add First Category
 #: public/messages/src/editor/plugins/categories/categories.node.json
 msgid "Add First Category"
-msgstr "添加第一类"
+msgstr "添加第一个分类"
 
 #. [MediaGallery.AddImage]
 #. defaultMessage is:
@@ -315,7 +315,7 @@ msgstr "将图像或视频添加到媒体库"
 #. Add Inline Image
 #: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
 msgid "Add Inline Image"
-msgstr "添加内嵌图片"
+msgstr "添加内置图片"
 
 #. [InfoboxModal.AddLabel]
 #. defaultMessage is:
@@ -336,7 +336,7 @@ msgstr "添加主照片"
 #. Add New Image or Video to Gallery
 #: public/messages/src/editor/plugins/media-gallery/media-gallery.node.json
 msgid "Add New Image or Video to Gallery"
-msgstr "将新图像或视频添加到图库"
+msgstr "将新图像或视频添加到媒体库"
 
 #. [InfoboxModal.AddNewItem]
 #. defaultMessage is:
@@ -356,7 +356,7 @@ msgstr "将新项目添加到信息框"
 #. Add a related page
 #: public/messages/src/editor/plugins/add-related/add-related-modal.json
 msgid "Add a related page"
-msgstr "添加相关页面"
+msgstr "添加一个相关页面"
 
 #. [InfoboxModal.AddAndAddAnother]
 #. defaultMessage is:
@@ -382,7 +382,7 @@ msgstr "添加并添加另一个"
 #: public/messages/src/editor/plugins/citation-modal/panes/add-edit-url.json
 #: public/messages/src/editor/plugins/section-media-modal/panes/add-edit-url.json
 msgid "Add and Insert"
-msgstr "添加和插入"
+msgstr "添加并插入"
 
 #. [ImageUploader.AddCustomCaption]
 #. defaultMessage is:
@@ -422,7 +422,7 @@ msgstr "添加或编辑主图像"
 #: public/messages/src/editor/plugins/citation-modal/panes/add-edit-isbn.json
 #: public/messages/src/editor/plugins/citation-modal/panes/add-edit-url.json
 msgid "Add without Inserting"
-msgstr "添加而不插入"
+msgstr "添加但不插入"
 
 #. [CreatePage.Description]
 #. defaultMessage is:
@@ -431,7 +431,7 @@ msgstr "添加而不插入"
 msgid ""
 "Add your contribution to the world’s most universal knowledge base. You can "
 "create an article about anything."
-msgstr "加入您对世界上最通用的知识库的贡献。您可以创建有关任何内容的文章。"
+msgstr "向全世界最通用的知识库添加您的贡献 您可以创建有关任何内容的文章。"
 
 #. [MediaGallery.AddingMediaMakes]
 #. defaultMessage is:
@@ -442,14 +442,14 @@ msgstr "加入您对世界上最通用的知识库的贡献。您可以创建有
 #: public/messages/src/editor/plugins/media-gallery/media-gallery-modal.json
 #: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
 msgid "Adding media makes an article more interactive and engaging."
-msgstr "添加媒体使文章更具互动性和吸引力。"
+msgstr "添加多媒体让文章更具互动性和吸引力。"
 
 #. [SubmitBoostModal.AdditionalBoostAmount]
 #. defaultMessage is:
 #. Additional boost amount
 #: public/messages/src/app/components/Boost/SubmitBoostModal.json
 msgid "Additional boost amount"
-msgstr "额外提升量"
+msgstr "额外助推量"
 
 #. [NewPageTemplate.NPT_Organization_AddressLocation]
 #. defaultMessage is:
@@ -489,14 +489,14 @@ msgstr ""
 #. Allow Non-Googlebot
 #: public/messages/src/editor/plugins/metadata/metadata-modal.json
 msgid "Allow Non-Googlebot"
-msgstr "允许Non-Googlebot"
+msgstr "支持Non-Googlebot"
 
 #. [CitationModal.AddEditFile.AllowedFormats]
 #. defaultMessage is:
 #. Allowed formats:
 #: public/messages/src/editor/plugins/citation-modal/panes/add-edit-file.json
 msgid "Allowed formats:"
-msgstr "允许的格式："
+msgstr "支持的格式："
 
 #. [Homepage.ModernAge]
 #. defaultMessage is:
@@ -528,8 +528,8 @@ msgid ""
 "tokens to vote, users decide which new articles and edits are added to the "
 "knowledge base."
 msgstr ""
-"任何拥有IQ通证的人都是 Everipedia 网络的利益相关者。用户可以使用 IQ 通证进行投票，以"
-"决定将哪些新文章和编辑的内容添加到知识库中。"
+"任何拥有IQ通证的人都是Everipedia网络的利益相关者。用户可以使用IQ通证进行投票，以"
+"决定将哪些新文章和编辑添加到知识库中。"
 
 #. [Chat.AreYouSureYouWantToDeleteThis]
 #. defaultMessage is:
@@ -558,8 +558,8 @@ msgid ""
 "sources and a neutral wording, you can write an article about anything you "
 "want. A dapp you like, yourself — anything."
 msgstr ""
-"作为编辑，Everipedia的杀手级功能是，只要您引用来源和中立的措词，就可以撰写任何你"
-"想写的文章。一个您喜欢的dapp，您自己——任何事物。"
+"作为编辑者，Everipedia不可忽略的一个特性是，只要您引用来源并采用中立的措词，就可以撰写任何您"
+"想写的文章。例如一个您喜欢的dapp、您自己乃至任何事物。"
 
 #. [NewPageTemplate.NPT_Product_Audience]
 #. defaultMessage is:
@@ -594,7 +594,7 @@ msgstr "余额明细"
 #. Become an Editor
 #: public/messages/src/app/containers/about/about.container.json
 msgid "Become an Editor"
-msgstr "成为编辑"
+msgstr "成为编辑者"
 
 #. [NewPageTemplate.NPT_Person_Birthday]
 #. defaultMessage is:
@@ -864,7 +864,7 @@ msgstr "首席运营官"
 #. Chief Product Officer
 #: public/messages/src/app/containers/about/third-block.json
 msgid "Chief Product Officer"
-msgstr "首席产品官"
+msgstr "产品总监"
 
 #. [TeamInfo.TravisMooreTitle]
 #. defaultMessage is:
@@ -940,7 +940,7 @@ msgstr "单击或拖动非媒体文件到该区域以上传，例如PDF，Word�
 #. Click to select the type of edit you made (required)
 #: public/messages/src/editor/plugins/save/save-modal-parts/comment-and-category.json
 msgid "Click to select the type of edit you made (required)"
-msgstr "单击以选择您所做的编辑类型（必填）"
+msgstr "单击以选择您所创作的编辑类型（必填）"
 
 #. [SubmitVote.ClickToVoteOnThisEdit]
 #. defaultMessage is:
@@ -954,7 +954,7 @@ msgstr "单击以对此编辑投票"
 #. Co-Founder Wikipedia, CIO Everipedia
 #: public/messages/src/app/containers/about/third-block.json
 msgid "Co-Founder Wikipedia, CIO Everipedia"
-msgstr "维基百科联合创始人Wikipedia/Everipedia CIO "
+msgstr "维基百科联合创始人/Everipedia CIO "
 
 #. [TableMenu.Column]
 #. defaultMessage is:
@@ -1017,7 +1017,7 @@ msgstr "确认您使用的是最新版本的钱包。"
 msgid ""
 "Confirm that you have enough IQ in your wallet (50IQ required to submit at "
 "edit)"
-msgstr "确认您的钱包中有足够的IQ（编辑时需要提交50IQ）"
+msgstr "确认您的钱包中有足够的IQ（编辑时需要质押50IQ）"
 
 #. [MergeModalAgain.ConfirmThatYouHaveSufficientEOS]
 #. defaultMessage is:
@@ -1219,8 +1219,8 @@ msgid ""
 "venture capital investor, software developer, product manager and startup "
 "founder and has been building distributed apps since 2017."
 msgstr ""
-"Daniel Liebeskind是位面向产品的软件开发人员，致力于打造出色的用户体验。Daniel"
-"有许多头衔，包括风险资本投资者，软件开发人员，产品经理和初创公司创始人，自2017年"
+"Daniel Liebeskind是一位面向产品，致力于打造极致用户体验的软件开发人员。Daniel"
+"有许多头衔，包括风险资本投资家，软件开发人员，产品经理和初创公司创始人，自2017年"
 "以来一直在开发去中心化应用程序。"
 
 #. [NewPageTemplate.NPT_CreativeWork_Date_Created]
@@ -1334,7 +1334,7 @@ msgstr "编辑"
 #. EXISTING BOOST
 #: public/messages/src/app/components/Boost/SubmitBoostModal.json
 msgid "EXISTING BOOST"
-msgstr "现有助力"
+msgstr "现有助推"
 
 #. [ActivityCards.ExpiringSoon]
 #. defaultMessage is:
@@ -1581,14 +1581,14 @@ msgstr "输入网址"
 #: public/messages/src/editor/plugins/citation-modal/panes/add-edit-url.json
 #: public/messages/src/editor/plugins/section-media-modal/panes/add-edit-url.json
 msgid "Enter a description"
-msgstr "输入一个描述"
+msgstr "输入描述"
 
 #. [AddRelatedModal.SearchPlaceholder]
 #. defaultMessage is:
 #. Enter a search term
 #: public/messages/src/editor/plugins/add-related/add-related-modal.json
 msgid "Enter a search term"
-msgstr "输入一个搜索词"
+msgstr "输入搜索词"
 
 #. [InfoboxModal.EnterAType]
 #. defaultMessage is:
@@ -1604,14 +1604,14 @@ msgstr "输入类型"
 msgid ""
 "Enter the code that was sent to your email address. If you haven't received "
 "a code, go back and try again."
-msgstr "输入发送到您的电子邮件地址的代码。如果您尚未收到验证码，请返回并重试。"
+msgstr "输入发送到您的电子邮箱的验证码。如果您尚未收到验证码，请返回并重试。"
 
 #. [Login.EnterEmail]
 #. defaultMessage is:
 #. Enter your email and we'll send a code to that email address.
 #: public/messages/src/app/components/Login/email_login.json
 msgid "Enter your email and we'll send a code to that email address."
-msgstr "输入您的电子邮件，我们将向该电子邮件地址发送验证码。"
+msgstr "输入您的电子邮箱，我们将向该电子邮箱发送验证码。"
 
 #. [ContactUs.EnterYourMessage]
 #. defaultMessage is:
@@ -1675,7 +1675,7 @@ msgid ""
 "have a citation. This allows for a much broader scope of content in the "
 "knowledge base."
 msgstr ""
-"只要有一条引用源，Everipedia允许您创建关于任何事物的文章。这样可以让知识库中的内容范"
+"只需一条引用源，Everipedia允许您创建关于任何事物的文章。这样可以让知识库中的内容范"
 "围更加广泛。"
 
 #. [About.LearnMore]
@@ -1691,8 +1691,8 @@ msgid ""
 "interesting, connect with people who share your interests, and contribute "
 "your own perspective."
 msgstr ""
-"Everipedia提供了一个让您可以深入研究自己感兴趣的事物的空间，与拥有共同兴趣的"
-"人保持联系，并贡献自己的见解。"
+"Everipedia提供了一个让您可以深入研究自己感兴趣事物的空间，与志趣相同的"
+"人们保持联系，并贡献自己的见解。"
 
 #. [About.Blockchain]
 #. defaultMessage is:
@@ -1704,15 +1704,15 @@ msgid ""
 "everyone, everywhere can participate in sharing what they know and providing "
 "value to others."
 msgstr ""
-"Everipedia使用区块链技术来帮助我们实现让所有人能够有机会接触所有知识的愿景，"
-"在这个世界中，每个地方的每个人都可以参与分享他们的知识并为他人提供价值。"
+"Everipedia通过区块链技术来帮助我们实现一个愿景，即让世人都有机会接触所有知识的愿景，"
+"在这样的愿景中，无论在哪，无论是谁都可以参与分享他们的知识并为他人提供价值。"
 
 #. [About.ModernDesignText]
 #. defaultMessage is:
 #. Everipedia’s design and features have been built for the modern age.
 #: public/messages/src/app/containers/about/about.container.json
 msgid "Everipedia’s design and features have been built for the modern age."
-msgstr "Everipedia的设计和功能是为现代而打造的。"
+msgstr "Everipedia的设计和特性是为现代化而打造的。"
 
 #. [ThirdBlock.VibrantCommunity]
 #. defaultMessage is:
@@ -1723,8 +1723,8 @@ msgid ""
 "already one of the world’s largest encyclopedias, but we’re far from "
 "complete. Join us today."
 msgstr ""
-"Everipedia充满活力的社区向所有人开放并欢迎您。我们已经是世界上最大的百科全书"
-"之一，但是还远远不够。今天加入我们的行列。"
+"Everipedia社区充满活力，向所有人开放并欢迎您。我们已经是世界上最大的百科全书"
+"之一，但是这还远远不够。现在就加入我们吧！"
 
 #. [LastBlock.ExploreYourCuriosity]
 #. defaultMessage is:
@@ -1783,7 +1783,7 @@ msgstr "投票失败"
 #: public/messages/src/editor/utils/editing-utils/template-packs/place.json
 #: public/messages/src/editor/utils/editing-utils/template-packs/product.json
 msgid "Features"
-msgstr "特征"
+msgstr "功能"
 
 #. [NewPageTemplate.NPT_CreativeWork_FeaturesInclude]
 #. defaultMessage is:
@@ -1970,7 +1970,7 @@ msgstr "开始使用"
 #. Get an Account
 #: public/messages/src/app/components/Chat/ChatList.json
 msgid "Get an Account"
-msgstr "取得帐号"
+msgstr "获取帐号"
 
 #. [ContactUs.GetInTouch]
 #. defaultMessage is:
@@ -1984,7 +1984,7 @@ msgstr "保持联系"
 #. Get more IQ here
 #: public/messages/src/app/components/SubmitVote/index.json
 msgid "Get more IQ here"
-msgstr "在这里获得更多智商"
+msgstr "从这里获得更多IQ"
 
 #. [CommentUtils.Grammar]
 #. defaultMessage is:
@@ -2060,14 +2060,14 @@ msgstr "它是如何工作的"
 #. How much IQ should I boost?
 #: public/messages/src/app/components/Boost/SubmitBoostModal.json
 msgid "How much IQ should I boost?"
-msgstr "我应该提高多少智商？"
+msgstr "我应该助推多少IQ？"
 
 #. [SubmitVoteConfirmation.HowMuch]
 #. defaultMessage is:
 #. How much IQ should I vote?
 #: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
 msgid "How much IQ should I vote?"
-msgstr "我应该投票多少智商？"
+msgstr "我应该投多少IQ的票？"
 
 #. [ThirdBlock.ILoveEveripediaBecause]
 #. defaultMessage is:
@@ -2077,8 +2077,8 @@ msgid ""
 "I love Everipedia because everyone benefits, particularly the contributors. "
 "As an IQ token holder, I have an incentive to participate in the network."
 msgstr ""
-"我爱Everipedia，因为每个人都受益，特别是贡献者。作为IQ令牌持有者，我有参加网"
-"络的动机。"
+"我喜欢Everipedia，因为每个人都能从中受益，特别是贡献者。作为IQ通证的持有者，我有参与网"
+"络建设的动力。"
 
 #. [InTheNews.InTheNews]
 #. defaultMessage is:
@@ -2092,7 +2092,7 @@ msgstr "新闻动态"
 #. IQ EARNED
 #: public/messages/src/app/containers/admin/admin.container.json
 msgid "IQ EARNED"
-msgstr "智商赚了"
+msgstr "赚取的IQ"
 
 #. [Stats.IqHolders]
 #. defaultMessage is:
@@ -2103,14 +2103,14 @@ msgstr "智商赚了"
 #: public/messages/src/app/containers/admin/admin.container.json
 #: public/messages/src/app/containers/homepageContainer/stats.json
 msgid "IQ HOLDERS"
-msgstr "智商持有人"
+msgstr "IQ持有人"
 
 #. [Index.IQToken]
 #. defaultMessage is:
 #. IQ Token
 #: public/messages/src/app/components/Footer/index.json
 msgid "IQ Token"
-msgstr "IQ令牌"
+msgstr "IQ通证"
 
 #. [About.EarnRewardsText]
 #. defaultMessage is:
@@ -2121,8 +2121,8 @@ msgid ""
 "Everipedia, and as the value of the platform grows, the people who built it "
 "get to share in its success."
 msgstr ""
-"IQ代币使我们能够跟踪和奖励为Everipedia做出贡献的人们，随着平台价值的增长，构"
-"建平台的人们将分享其成功。"
+"IQ通证使我们能够跟踪和奖励为Everipedia做出贡献的人们，随着平台价值的增长，共"
+"建平台的人们将分享其成就。"
 
 #. [IQInfo.IQTokensPower]
 #. defaultMessage is:
@@ -2141,12 +2141,9 @@ msgid ""
 "                                holder can also vote on upgrades and "
 "modifications to the system."
 msgstr ""
-"IQ令牌为Everipedia网络提供动力。它们用于为我们贡献内容\n"
-"                                不断增长的知识库，并投票支持/反对新文章以及对"
-"现有文章的编辑\n"
-"                                文章。贡献者以IQ令牌的形式获得奖励。此外，每"
-"个令牌\n"
-"                                持有人还可以对系统的升级和修改进行投票。"
+"IQ通证为Everipedia网络提供了区动力。它们可用于为我们不断增长的知识库贡献内容，并"
+"投票支持/反对新文章和以及对现有文章的编辑。贡献者以IQ通证的形式获得奖励。此外，每"
+"位通证持有人还可以对系统的升级和改进进行投票"
 
 #. [CitationModal.ISBNBook]
 #. defaultMessage is:
@@ -2169,8 +2166,7 @@ msgid ""
 "difference between the total number of votes in the majority and the "
 "minority."
 msgstr ""
-"如果拒绝，则用于提议编辑的IQ令牌将被锁定更长的时间，这与多数票和少数票的总数"
-"之差成正比。"
+"如果被拒绝，则用于提议编辑的IQ通证将被锁定更长的时间，这与总的多数票和少数票之差成正比"
 
 #. [SubmitVoteConfirmation.IfYourVoteIsInTheMajority]
 #. defaultMessage is:
@@ -2179,7 +2175,7 @@ msgstr ""
 msgid ""
 "If your vote is in the majority, you will receive an IQ reward in proportion "
 "to the amount of IQ you voted."
-msgstr "如果您的投票占多数，您将获得与您投票的智商成比例的智商奖励。"
+msgstr "如果您的投票占多数，您将获得与您投票IQ成比例的IQ奖励。"
 
 #. [ImageUploader.ImageURL]
 #. defaultMessage is:
@@ -2193,17 +2189,15 @@ msgstr "图片网址"
 #. In the press
 #: public/messages/src/app/containers/about/last-block.json
 msgid "In the press"
-msgstr ""
-"若要链接到其他 Everipedia 页, 请单击 \"链接页\" 按钮。您还可以在键入时按 \"@"
-"\" 键, 会出现一个下拉框。尝试链接到尽可能多的页面, 以使每个页面内容和信息尽可"
-"能的丰富。"
+msgstr "新闻报道"
+
 
 #. [SubmitBoostModal.IncreaseYourVotingPower]
 #. defaultMessage is:
 #. Increase your voting power by boosting!
 #: public/messages/src/app/components/Boost/SubmitBoostModal.json
 msgid "Increase your voting power by boosting!"
-msgstr "通过提高您的投票权！"
+msgstr "通过助推提高您的投票权！"
 
 #. [MetadataModal.Indexed]
 #. defaultMessage is:
@@ -2259,7 +2253,7 @@ msgstr "插入现有"
 #. Insert From Media Gallery
 #: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
 msgid "Insert From Media Gallery"
-msgstr "从媒体库插入"
+msgstr "从媒体库中插入"
 
 #. [TableMenu.InsertLeft]
 #. defaultMessage is:
@@ -2273,7 +2267,7 @@ msgstr "向左插入"
 #. Insert New
 #: public/messages/src/editor/plugins/table/table-button.json
 msgid "Insert New"
-msgstr "插入新"
+msgstr "插入新的"
 
 #. [TableMenu.InsertRight]
 #. defaultMessage is:
@@ -2298,7 +2292,7 @@ msgstr "投资咨询"
 #: public/messages/src/editor/components/continuation-guard/continuation-guard.component.json
 #: public/messages/src/editor/editor.container.json
 msgid "It looks like you may have unsaved edits. Would you like to continue?"
-msgstr "您似乎未保存修改。你想继续吗？"
+msgstr "您似乎未保存修改，是否继续？"
 
 #. [InfoboxModal.Items]
 #. defaultMessage is:
@@ -2312,7 +2306,7 @@ msgstr "项目"
 #. Just getting started?
 #: public/messages/src/app/components/Login/login.modal.json
 msgid "Just getting started?"
-msgstr "刚开始？"
+msgstr "刚着手？"
 
 #. [TeamInfo.KedarIyerBio]
 #. defaultMessage is:
@@ -2323,8 +2317,8 @@ msgid ""
 "written two books about blockchain technology, including a textbook for "
 "Solidity developers on how to build decentralized applications on Ethereum."
 msgstr ""
-"Kedar Iyer是来自加利福尼亚州圣克拉拉的一名软件工程师。他写了两本有关区块链技"
-"术的书，包括一本针对Solidity开发人员的教科书，内容涉及如何在以太坊上构建去中"
+"Kedar Iyer是一名来自加利福尼亚州圣克拉拉的软件工程师。他著有两本关于区块链技"
+"术的书，其中一本是针对Solidity开发人员的教科书，内容是关于如何在以太坊上构建去中"
 "心化应用程序。"
 
 #. [InfoboxModal.Label]
@@ -2351,9 +2345,9 @@ msgid ""
 "University. When he is not working on knowledge projects, he plays the Irish "
 "fiddle and homeschools his two boys."
 msgstr ""
-"拉里·桑格（Larry Sanger）是一名知识项目开发人员。他声名claim起是他是Wikipedia"
-"的共同创始人。他拥有博士学位。俄亥俄州立大学哲学博士学位。当他不在知识项目上"
-"工作时，他扮演爱尔兰小提琴演奏家，并和两个男孩一起在家上学。"
+"拉里·桑格（Larry Sanger）是一名知识类项目开发人员。他名声大噪是因为他是维基百科的"
+"联合创始人。他拥有俄亥俄州立大学哲学博士学位。在他的工作之余，他还是一位爱尔兰小提"
+"琴演奏家，并在家里教育他的两位小孩。"
 
 #. [SearchCard.LastEdited]
 #. defaultMessage is:
@@ -2490,7 +2484,7 @@ msgstr "列表/排名"
 msgid ""
 "Live and permanent edits of content on the blockchain beyond the control of "
 "a central authority."
-msgstr "可以跳出中央当局的控制，对区块链上的内容进行永久性的编辑。"
+msgstr "可以摆脱中心机构的控制，对区块链上的内容进行实时地、永久地编辑。"
 
 #. [ActivityCards.Loading]
 #. defaultMessage is:
@@ -2552,70 +2546,70 @@ msgstr "登录聊天"
 #. Log in with Email
 #: public/messages/src/app/components/Login/index.json
 msgid "Log in with Email"
-msgstr "用电子邮件登录"
+msgstr "通过电子邮件登录"
 
 #. [Login.LogInWithFacebook]
 #. defaultMessage is:
 #. Log in with Facebook
 #: public/messages/src/app/components/Login/auth.json
 msgid "Log in with Facebook"
-msgstr "使用 Facebook 登录"
+msgstr "通过Facebook登录"
 
 #. [Login.LogInWithGithub]
 #. defaultMessage is:
 #. Log in with Github
 #: public/messages/src/app/components/Login/auth.json
 msgid "Log in with Github"
-msgstr "使用Github登录"
+msgstr "通过Github登录"
 
 #. [Login.LogInWithGoogle]
 #. defaultMessage is:
 #. Log in with Google
 #: public/messages/src/app/components/Login/auth.json
 msgid "Log in with Google"
-msgstr "使用Google登录"
+msgstr "通过Google登录"
 
 #. [Login.LogInWithKakao]
 #. defaultMessage is:
 #. Log in with Kakao
 #: public/messages/src/app/components/Login/auth.json
 msgid "Log in with Kakao"
-msgstr "使用Kakao登录"
+msgstr "通过Kakao登录"
 
 #. [Login.LogInWithLine]
 #. defaultMessage is:
 #. Log in with Line
 #: public/messages/src/app/components/Login/auth.json
 msgid "Log in with Line"
-msgstr "使用Line登录"
+msgstr "通过Line登录"
 
 #. [Login.LogInWithLinkedIn]
 #. defaultMessage is:
 #. Log in with LinkedIn
 #: public/messages/src/app/components/Login/auth.json
 msgid "Log in with LinkedIn"
-msgstr "使用LinkedIn登录"
+msgstr "通过LinkedIn登录"
 
 #. [Login.LogInWithScatter]
 #. defaultMessage is:
 #. Log in with Scatter
 #: public/messages/src/app/components/Login/auth.json
 msgid "Log in with Scatter"
-msgstr "请通过Scatter登陆"
+msgstr "通过Scatter登陆"
 
 #. [Login.LogInWithTwitch]
 #. defaultMessage is:
 #. Log in with Twitch
 #: public/messages/src/app/components/Login/auth.json
 msgid "Log in with Twitch"
-msgstr "使用Twitch登录"
+msgstr "通过Twitch登录"
 
 #. [Login.LogInWithTwitter]
 #. defaultMessage is:
 #. Log in with Twitter
 #: public/messages/src/app/components/Login/auth.json
 msgid "Log in with Twitter"
-msgstr "使用Twitter登录"
+msgstr "通过Twitter登录"
 
 #. [Dashboard.LogOut]
 #. defaultMessage is:
@@ -2698,56 +2692,56 @@ msgstr "登录以参与文章聊天。"
 #. Login with Facebook
 #: public/messages/src/app/components/Login/index.json
 msgid "Login with Facebook"
-msgstr "用Facebook账号登入"
+msgstr "通过Facebook账号登入"
 
 #. [LoginModal.LoginWithGoogle]
 #. defaultMessage is:
 #. Login with Google
 #: public/messages/src/app/components/Login/index.json
 msgid "Login with Google"
-msgstr "用Google账号登入"
+msgstr "通过Google账号登入"
 
 #. [LoginModal.LoginWithKakao]
 #. defaultMessage is:
 #. Login with Kakao
 #: public/messages/src/app/components/Login/index.json
 msgid "Login with Kakao"
-msgstr "使用Kakao登录"
+msgstr "通过Kakao账号登录"
 
 #. [LoginModal.LoginWithLine]
 #. defaultMessage is:
 #. Login with Line
 #: public/messages/src/app/components/Login/index.json
 msgid "Login with Line"
-msgstr "使用Line登录"
+msgstr "通过Line账号登录"
 
 #. [LoginModal.LoginWithPhone]
 #. defaultMessage is:
 #. Login with Phone
 #: public/messages/src/app/components/Login/index.json
 msgid "Login with Phone"
-msgstr "用手机登录"
+msgstr "通过手机号登录"
 
 #. [LoginModal.LoginWithScatter]
 #. defaultMessage is:
 #. Login with Scatter
 #: public/messages/src/app/components/Login/index.json
 msgid "Login with Scatter"
-msgstr "使用Scatter登录"
+msgstr "通过Scatter登录"
 
 #. [Login.LoginWithScatterBlockchain]
 #. defaultMessage is:
 #. Login with Scatter to use your existing EOS blockchain account.
 #: public/messages/src/app/components/Login/index.json
 msgid "Login with Scatter to use your existing EOS blockchain account."
-msgstr "使用Scatter登录以使用您现有的EOS区块链帐户。"
+msgstr "通过Scatter登录以使用您现有的EOS区块链帐户。"
 
 #. [LoginModal.LoginWithTwitter]
 #. defaultMessage is:
 #. Login with Twitter
 #: public/messages/src/app/components/Login/index.json
 msgid "Login with Twitter"
-msgstr "用Twitter登录"
+msgstr "通过Twitter账号登录"
 
 #. [MediaBox.Media]
 #. defaultMessage is:
@@ -2793,14 +2787,14 @@ msgstr "我的编辑"
 #. Make an Edit
 #: public/messages/src/app/components/SubmitVote/index.json
 msgid "Make an Edit"
-msgstr "进行编辑"
+msgstr "创建一个编辑"
 
 #. [ThirdBlock.MarketCap]
 #. defaultMessage is:
 #. Marketcap.one
 #: public/messages/src/app/containers/about/third-block.json
 msgid "Marketcap.one"
-msgstr "市值"
+msgstr "Marketcap.one"
 
 #. [FileUploader.MaxFileSize]
 #. defaultMessage is:
@@ -2850,7 +2844,7 @@ msgstr "医疗法规"
 #. Meet our team
 #: public/messages/src/app/containers/about/third-block.json
 msgid "Meet our team"
-msgstr "满足我们的团队"
+msgstr "团队阵容"
 
 #. [CommentUtils.Merge]
 #. defaultMessage is:
@@ -2899,21 +2893,21 @@ msgstr "移动编辑即将推出"
 #. Mobile view of Everipedia user profile
 #: public/messages/src/app/containers/about/about.container.json
 msgid "Mobile view of Everipedia user profile"
-msgstr "Everipedia用户个人资料的移动视图"
+msgstr "Everipedia用户个人资料的移动端视图"
 
 #. [About.ModernDesignTitle]
 #. defaultMessage is:
 #. Modern Design and Features
 #: public/messages/src/app/containers/about/about.container.json
 msgid "Modern Design and Features"
-msgstr "现代设计和功能"
+msgstr "现代化的功能与设计"
 
 #. [About.MoreArticlesTitle]
 #. defaultMessage is:
 #. More Articles and Content
 #: public/messages/src/app/containers/about/about.container.json
 msgid "More Articles and Content"
-msgstr "更多文章和内容"
+msgstr "更多文章与内容"
 
 #. [SearchResults.MoreResults]
 #. defaultMessage is:
@@ -2927,7 +2921,7 @@ msgstr "更多结果"
 #. Must change something to submit your profile to the blockchain
 #: public/messages/src/app/components/edit-profile/index.json
 msgid "Must change something to submit your profile to the blockchain"
-msgstr "必须更改一些内容才能将您的个人资料提交到区块链"
+msgstr "必须修改一些内容才能将您的个人资料提交到区块链"
 
 #. [Chat.MustLogInToChat]
 #. defaultMessage is:
@@ -2941,7 +2935,7 @@ msgstr "必须登录聊天"
 #. NEW BOOST
 #: public/messages/src/app/components/Boost/SubmitBoostModal.json
 msgid "NEW BOOST"
-msgstr "新提升"
+msgstr "新助推"
 
 #. [NewPageTemplate.NPT_Person_Nationality]
 #. defaultMessage is:
@@ -2959,7 +2953,7 @@ msgstr "国籍"
 #: public/messages/src/app/containers/article/article.container.json
 #: public/messages/src/app/utils/comment-utils.json
 msgid "New Article"
-msgstr "创建新文章"
+msgstr "新文章"
 
 #. [MetadataNode.No]
 #. defaultMessage is:
@@ -2991,7 +2985,7 @@ msgstr "目录中没有聊天记录"
 #. No Edits
 #: public/messages/src/app/containers/homepageContainer/leaderboard.json
 msgid "No Edits"
-msgstr "最新编辑"
+msgstr "无编辑"
 
 #. [LinkRenderer.NoPreviewAvailable]
 #. defaultMessage is:
@@ -3005,14 +2999,14 @@ msgstr "预览不可用"
 #. No Search Results
 #: public/messages/src/app/components/Search/SearchResults.json
 msgid "No Search Results"
-msgstr "没有搜索结果"
+msgstr "无搜索结果"
 
 #. [Leaderboard.NoVotes]
 #. defaultMessage is:
 #. No Votes
 #: public/messages/src/app/containers/homepageContainer/leaderboard.json
 msgid "No Votes"
-msgstr "投票处"
+msgstr "无投票"
 
 #. [Dashboard.NoInfoAvailableTwo]
 #. defaultMessage is:
@@ -3040,7 +3034,7 @@ msgstr "没有结果返回"
 #. No votes
 #: public/messages/src/app/components/tooltips/index.json
 msgid "No votes"
-msgstr "投票处"
+msgstr "无投票"
 
 #. [MetadataModal.None]
 #. defaultMessage is:
@@ -3054,7 +3048,7 @@ msgstr "无"
 #. Not changed
 #: public/messages/src/app/components/SubmitVote/EditOverview.json
 msgid "Not changed"
-msgstr "已更改"
+msgstr "未更改"
 
 #. [NewPageTemplate.NPT_Organization_NotablePeople]
 #. defaultMessage is:
@@ -3079,7 +3073,7 @@ msgstr "通知"
 #. Number of Employees
 #: public/messages/src/editor/utils/editing-utils/template-packs/organization.json
 msgid "Number of Employees"
-msgstr "在职员工人数"
+msgstr "在职员工数"
 
 #. [SubmitBoostModal.OK]
 #. defaultMessage is:
@@ -3101,7 +3095,7 @@ msgstr "好"
 #: public/messages/src/app/containers/admin/admin.container.json
 #: public/messages/src/app/containers/homepageContainer/stats.json
 msgid "ORIGINAL PAGES"
-msgstr "原始页面"
+msgstr "初始页面"
 
 #. [NewPageTemplate.NPT_Person_Occupation]
 #. defaultMessage is:
@@ -3189,7 +3183,7 @@ msgstr "其他登录选项"
 #. Our global offices
 #: public/messages/src/app/containers/contact-us/contact-us.container.json
 msgid "Our global offices"
-msgstr "我们的全球办事处"
+msgstr "我们全球的办公室"
 
 #. [ThirdBlock.OurMissionToBuild]
 #. defaultMessage is:
@@ -3204,9 +3198,9 @@ msgid ""
 "have people with deep experience\n"
 "\t\t\t\t\t\tand knowledge in both the education and blockchain industry."
 msgstr ""
-"我们打造世界上最伟大的百科全书的使命需要一支熟练的执行团队，\n"
-"迎接挑战。在Everipedia，我们很幸运拥有经验丰富的人\n"
-"以及教育和区块链行业的知识。"
+"我们的使命是建立世界上最伟大的百科全书，这需要一只经验丰富的执行团队去"
+"迎接挑战。\n"
+"\t\t\t\t\t\在Everipedia，我们很幸运拥有在区块链和教育领域都具有丰富经验的人\n"
 
 #. [Errors.OutOfIQ]
 #. defaultMessage is:
@@ -3216,14 +3210,14 @@ msgstr ""
 #. Out of IQ
 #: public/messages/src/app/components/error-modal/index.json
 msgid "Out of IQ"
-msgstr "智商不足"
+msgstr "IQ不足"
 
 #. [Suggestions.OverrideText]
 #. defaultMessage is:
 #. Override text?
 #: public/messages/src/editor/components/mentions/suggestions.json
 msgid "Override text?"
-msgstr "覆盖文字？"
+msgstr "覆盖文本？"
 
 #. [RecentPopularContent.POPULAR]
 #. defaultMessage is:
@@ -3300,7 +3294,7 @@ msgstr "固定链接"
 #. Permanently increase your voting power for this article by burning IQ.
 #: public/messages/src/app/components/Boost/index.json
 msgid "Permanently increase your voting power for this article by burning IQ."
-msgstr "通过刻录IQ来永久增加您对本文的投票权。"
+msgstr "通过燃烧IQ来永久性地增加您对本文的投票权。"
 
 #. [Login.Permission]
 #. defaultMessage is:
@@ -3352,7 +3346,7 @@ msgstr "出生地"
 #. Please add at least one citation
 #: public/messages/src/editor/plugins/save/save-modal.json
 msgid "Please add at least one citation"
-msgstr "请添加至少一个引用"
+msgstr "请至少添加一个引用"
 
 #. [LinkableInputSlate.PleaseBeginTyping]
 #. defaultMessage is:
@@ -3374,14 +3368,14 @@ msgstr "请开始输入..."
 #: public/messages/src/editor/plugins/citation-modal/panes/add-edit-url.json
 #: public/messages/src/editor/plugins/section-media-modal/panes/add-edit-url.json
 msgid "Please enter a URL"
-msgstr "请输入消息"
+msgstr "请输入一个网址"
 
 #. [ImageUploader.EnterAURL]
 #. defaultMessage is:
 #. Please enter a URL.
 #: public/messages/src/shared/inputs/image-uploader/image-uploader.component.json
 msgid "Please enter a URL."
-msgstr "请输入消息"
+msgstr "请输入一个网址"
 
 #. [FileUploader.CaptionPlaceholder]
 #. defaultMessage is:
@@ -3392,14 +3386,14 @@ msgstr "请输入消息"
 #: public/messages/src/shared/inputs/image-uploader/file-uploader.component.json
 #: public/messages/src/shared/inputs/image-uploader/image-uploader.component.json
 msgid "Please enter a caption"
-msgstr "请输入主题"
+msgstr "请输入一个主题"
 
 #. [SaveModalAgain.CommentPlaceholder]
 #. defaultMessage is:
 #. Please enter a comment for this edit
 #: public/messages/src/editor/plugins/save/save-modal.json
 msgid "Please enter a comment for this edit"
-msgstr "请输入消息"
+msgstr "请为该编辑输入一个注释"
 
 #. [ContactUs.PleaseEnterAMessage]
 #. defaultMessage is:
@@ -3410,21 +3404,21 @@ msgstr "请输入消息"
 #: public/messages/src/app/components/ContactUsForm/index.json
 #: public/messages/src/app/containers/contact-us/messages.json
 msgid "Please enter a message"
-msgstr "请输入消息"
+msgstr "请输入一则消息"
 
 #. [ContactUs.PleaseEnterASubject]
 #. defaultMessage is:
 #. Please enter a subject
 #: public/messages/src/app/components/ContactUsForm/index.json
 msgid "Please enter a subject"
-msgstr "请输入主题"
+msgstr "请输入一个主题"
 
 #. [ContactUs.PleaseEnterYourEmailAddressTwo]
 #. defaultMessage is:
 #. Please enter a valid email address
 #: public/messages/src/app/containers/contact-us/messages.json
 msgid "Please enter a valid email address"
-msgstr "请输入有效的电子邮件地址"
+msgstr "请输入有效的电子邮箱"
 
 #. [CitationModal.AddEditISBN.EnterTheBooksISBN]
 #. defaultMessage is:
@@ -3456,21 +3450,21 @@ msgstr "请输入您的全名"
 #. Please make sure you are inserting in a valid location!
 #: public/messages/src/editor/plugins/ep-link-modal/ep-link-modal.json
 msgid "Please make sure you are inserting in a valid location!"
-msgstr "请确保您插入的位置正确！"
+msgstr "请确保您插入在有效位置！"
 
 #. [SaveModalAgain.CategoryPlaceholder]
 #. defaultMessage is:
 #. Please select a comment category
 #: public/messages/src/editor/plugins/save/save-modal.json
 msgid "Please select a comment category"
-msgstr "请选择评论类别"
+msgstr "请选择注释类别"
 
 #. [MergeModalAgain.Description]
 #. defaultMessage is:
 #. Please select the page you want to merge into
 #: public/messages/src/editor/plugins/merge/merge-modal.json
 msgid "Please select the page you want to merge into"
-msgstr "请选择您要合并到的页面"
+msgstr "请选择您要合并的页面"
 
 #. [SubmitBoostModal.PleaseTryAgain]
 #. defaultMessage is:
@@ -3502,14 +3496,14 @@ msgstr "技术支持"
 #. Powered by you.
 #: public/messages/src/app/containers/homepageContainer/homepage.container.json
 msgid "Powered by you."
-msgstr "技术支持"
+msgstr "由你驱动"
 
 #. [TeamInfo.SamKazemianTitle]
 #. defaultMessage is:
 #. President
 #: public/messages/src/app/containers/about/third-block.json
 msgid "President"
-msgstr "主席"
+msgstr "总裁"
 
 #. [ActivityCard.PreviewNotAvailable]
 #. defaultMessage is:
@@ -3570,7 +3564,7 @@ msgid ""
 "network as it grows. Also will facilitate batch imports of new content with "
 "no fees."
 msgstr ""
-"股权证明（POS）模型允许随着它的发展，通过投票来改造和升级IQ网络。这也将促进新"
+"股权证明（POS）模型使得随着其发展，可以通过投票来改造和升级IQ网络。这也将促进新"
 "内容的批量引进而无需任何费用。"
 
 #. [DashboardComponent.Proposals]
@@ -3622,7 +3616,7 @@ msgstr "最近的"
 #. RECENT TWEETS
 #: public/messages/src/app/components/ArticleComponent/TweetBox.json
 msgid "RECENT TWEETS"
-msgstr "最近的TWEETS"
+msgstr "最近的推特"
 
 #. [TopNav.Read]
 #. defaultMessage is:
@@ -3662,14 +3656,14 @@ msgstr "最近的聊天记录"
 #. Redirecting to ORE ID authentication page
 #: public/messages/src/editor/plugins/save/save-modal.json
 msgid "Redirecting to ORE ID authentication page"
-msgstr "重定向到ORE ID身份验证页面"
+msgstr "跳转到ORE ID身份验证页面"
 
 #. [OreID.txOREIDRedirect]
 #. defaultMessage is:
 #. Redirecting to ORE ID authentication page.
 #: public/messages/src/app/components/Login/oreid.json
 msgid "Redirecting to ORE ID authentication page."
-msgstr "重定向到ORE ID身份验证页面"
+msgstr "跳转到ORE ID身份验证页面"
 
 #. [ArticleComponent.References]
 #. defaultMessage is:
@@ -3701,7 +3695,7 @@ msgstr "拒绝"
 #. Rejected
 #: public/messages/src/app/components/SubmitVote/index.json
 msgid "Rejected"
-msgstr "拒绝"
+msgstr "已拒绝"
 
 #. [SeeAlso.RelatedArticles]
 #. defaultMessage is:
@@ -3747,7 +3741,7 @@ msgstr "移除"
 #. Remove Page
 #: public/messages/src/editor/plugins/metadata/metadata-modal.json
 msgid "Remove Page"
-msgstr "删除页面"
+msgstr "移除页面"
 
 #. [ActivityCard.Removed1]
 #. defaultMessage is:
@@ -3824,9 +3818,9 @@ msgid ""
 "integrate blockchain technology to an online knowledge base for the first "
 "time in history."
 msgstr ""
-"Sam Kazemian是一名伊朗裔美国人的互联网企业家和程序员。在他在UCLA宿舍里组装了"
-"自制的CPU + GPU采矿设备后，他开始了加密货币之旅。他对行业的热情使他有史以来第"
-"一次将区块链技术集成到在线知识库中。"
+"Sam Kazemian是一位伊朗裔美国人的互联网企业家和程序员。他从在加州大学洛杉矶分校"
+"（UCLA）宿舍里组装了自制的CPU + GPU采矿设备之后，开启了加密货币之旅。他对行业"
+"的激情促使他成为史上第一位将区块链技术融合到在线知识库中的人。"
 
 #. [SaveModalAgain.Save]
 #. defaultMessage is:
