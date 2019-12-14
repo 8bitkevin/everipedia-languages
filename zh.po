@@ -3564,8 +3564,8 @@ msgid ""
 "network as it grows. Also will facilitate batch imports of new content with "
 "no fees."
 msgstr ""
-"股权证明（POS）模型使得随着其发展，可以通过投票来改造和升级IQ网络。这也将促进新"
-"内容的批量引进而无需任何费用。"
+"股权证明（POS）模型使得随着IQ网络的发展，人们可以通过投票来改造和升级它。这也将促"
+"进新内容的批量引进而无需任何费用。"
 
 #. [DashboardComponent.Proposals]
 #. defaultMessage is:
@@ -3818,9 +3818,9 @@ msgid ""
 "integrate blockchain technology to an online knowledge base for the first "
 "time in history."
 msgstr ""
-"Sam Kazemian是一位伊朗裔美国人的互联网企业家和程序员。他从在加州大学洛杉矶分校"
+"Sam Kazemian是一位伊朗裔美国互联网企业家和程序员。他自从在加州大学洛杉矶分校"
 "（UCLA）宿舍里组装了自制的CPU + GPU采矿设备之后，开启了加密货币之旅。他对行业"
-"的激情促使他成为史上第一位将区块链技术融合到在线知识库中的人。"
+"的激情促使他成为史上第一位将区块链技术融合到在线知识库中的创业者。"
 
 #. [SaveModalAgain.Save]
 #. defaultMessage is:
@@ -3880,7 +3880,7 @@ msgstr "查看更多博客文章"
 #. See something missing?
 #: public/messages/src/app/components/ArticleComponent/index.json
 msgid "See something missing?"
-msgstr "看到缺少的东西吗？"
+msgstr "查看错过的消息？"
 
 #. [MergeModalAgain.SeeYourEditOnABlockExplorer]
 #. defaultMessage is:
@@ -3898,7 +3898,7 @@ msgstr "在区块浏览器中查看您的编辑"
 #. Select
 #: public/messages/src/app/components/edit-profile/index.json
 msgid "Select"
-msgstr "选择原因"
+msgstr "选择"
 
 #. [CategoriesModal.SelectCategories]
 #. defaultMessage is:
@@ -3926,7 +3926,7 @@ msgstr "选择平台"
 #. Select a reason
 #: public/messages/src/app/containers/contact-us/messages.json
 msgid "Select a reason"
-msgstr "选择原因"
+msgstr "选择一个原因"
 
 #. [ContactUs.selectDifferentReason]
 #. defaultMessage is:
@@ -3947,7 +3947,7 @@ msgstr "发送"
 #. Send Another
 #: public/messages/src/app/containers/contact-us/messages.json
 msgid "Send Another"
-msgstr "添加另一个"
+msgstr "发送另一个"
 
 #. [Chat.SendMessageToEditors]
 #. defaultMessage is:
@@ -3964,7 +3964,7 @@ msgstr "发信息给其他编辑"
 #. Send us a message
 #: public/messages/src/app/containers/contact-us/messages.json
 msgid "Send us a message"
-msgstr "给我们发给信息"
+msgstr "给我们发信息"
 
 #. [NewPageTemplate.NPT_Organization_Services]
 #. defaultMessage is:
@@ -3985,14 +3985,14 @@ msgstr "服务"
 #. Share via:
 #: public/messages/src/app/components/ArticleComponent/ShareModal.json
 msgid "Share via:"
-msgstr "分享："
+msgstr "分享至："
 
 #. [ArticleComponent.ShowAllCitations]
 #. defaultMessage is:
 #. Show All Citations
 #: public/messages/src/app/components/ArticleComponent/References.json
 msgid "Show All Citations"
-msgstr "添加或编辑引文"
+msgstr "展示所有引文"
 
 #. [AccountNameHeader.SignUp]
 #. defaultMessage is:
@@ -4018,7 +4018,7 @@ msgstr "注册"
 #: public/messages/src/app/components/Boost/SubmitBoostModal.json
 #: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
 msgid "Sign with Wallet"
-msgstr "用钱包签名"
+msgstr "通过钱包签名"
 
 #. [SocialMediaBox.SocialMedia]
 #. defaultMessage is:
@@ -4039,7 +4039,7 @@ msgstr "社交平台"
 #. Staked
 #: public/messages/src/app/components/Header/account-name-header.json
 msgid "Staked"
-msgstr "ked"
+msgstr "质押"
 
 #. [Homepage.StartContributing]
 #. defaultMessage is:
@@ -4053,7 +4053,7 @@ msgstr "开始贡献"
 #. Start Contributing on Everipedia
 #: public/messages/src/app/components/error-modal/index.json
 msgid "Start Contributing on Everipedia"
-msgstr "开始为Everipedia捐款"
+msgstr "开始在Everipedia上做贡献"
 
 #. [NewPageTemplate.NPT_Event_StartDate]
 #. defaultMessage is:
@@ -4136,7 +4136,7 @@ msgstr "提交文章编辑"
 #. Submitting Your Article Edit
 #: public/messages/src/editor/plugins/save/save-modal.json
 msgid "Submitting Your Article Edit"
-msgstr "提交文章编辑"
+msgstr "提交你的文章编辑"
 
 #. [SubmitBoostModal.Success]
 #. defaultMessage is:
@@ -4147,14 +4147,14 @@ msgstr "提交文章编辑"
 #: public/messages/src/app/components/Boost/SubmitBoostModal.json
 #: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
 msgid "Successfully Voted!"
-msgstr "成功投票！"
+msgstr "已成功投票！"
 
 #. [SubmitVote.SuccessfullyPlaced]
 #. defaultMessage is:
 #. Successfully placed
 #: public/messages/src/app/components/SubmitVote/index.json
 msgid "Successfully placed"
-msgstr "成功放置"
+msgstr "已成功放置"
 
 #. [ContactUs.successfullySentMessage]
 #. defaultMessage is:
@@ -4172,7 +4172,7 @@ msgid ""
 "has 10 years of experience in global expansion strategy, venture capital and "
 "emerging technologies."
 msgstr ""
-"Suchet Dhindsa是挪威经济学家，企业家和投资者。 Suchet在全球扩张战略，风险投资"
+"Suchet Dhindsa是一位来自挪威的经济学家，企业家和投资者。 Suchet在全球扩张战略，风险投资"
 "和新兴技术方面拥有10年的经验。"
 
 #. [IQInfo.SupportedExchanges]
@@ -4194,42 +4194,42 @@ msgstr "支持的钱包"
 #. TOTAL EDITS
 #: public/messages/src/app/containers/admin/admin.container.json
 msgid "TOTAL EDITS"
-msgstr "总编辑"
+msgstr "总的编辑数"
 
 #. [SaveModalAgain.TxFailed]
 #. defaultMessage is:
 #. TRANSACTION FAILED!
 #: public/messages/src/editor/plugins/save/save-modal.json
 msgid "TRANSACTION FAILED!"
-msgstr "交易失败！"
+msgstr "处理失败！"
 
 #. [SaveModalAgain.TxSuccess]
 #. defaultMessage is:
 #. TRANSACTION SUCCESSFUL!
 #: public/messages/src/editor/plugins/save/save-modal.json
 msgid "TRANSACTION SUCCESSFUL!"
-msgstr "交易成功"
+msgstr "处理成功"
 
 #. [RecentPopularContent.TRENDING]
 #. defaultMessage is:
 #. TRENDING
 #: public/messages/src/app/containers/homepageContainer/recentPopularContent.json
 msgid "TRENDING"
-msgstr "趋势"
+msgstr "热门"
 
 #. [TableMenu.Table]
 #. defaultMessage is:
 #. Table
 #: public/messages/src/editor/plugins/table/table-button.json
 msgid "Table"
-msgstr "此 wiki 的内容和材料表"
+msgstr "材料表"
 
 #. [About.ModernAge]
 #. defaultMessage is:
 #. Taking the Online Encyclopedia into the Modern Age
 #: public/messages/src/app/containers/about/about.container.json
 msgid "Taking the Online Encyclopedia into the Modern Age"
-msgstr "将在线百科全书带入现代"
+msgstr "将在线百科全书带入现代化"
 
 #. [NewPageTemplate.NPT_Organization_Telephone]
 #. defaultMessage is:
@@ -4258,9 +4258,8 @@ msgid ""
 "and get more tokens with a\n"
 "\t\t\t\t\t\tScatter login."
 msgstr ""
-"感谢您试用Everipedia。看来您一直在进行修改，但用完了\n"
-"试用IQ令牌。您可以利用Everipedia的全部潜能，并获得更多代币\n"
-"分散登录。"
+"感谢您试用Everipedia。您似乎一直在编辑，但现在已经用完了试用的IQ通证\n"
+"\t\t\t\t\t\t您可以通过Scatter登录，解锁Everipedia的全部功能，并获得更多通证\n"
 
 #. [Errors.ThanksForUsingEveripedia]
 #. defaultMessage is:
@@ -4272,8 +4271,8 @@ msgid ""
 "can get more tokens\n"
 "\t\t\t\t\t\tat one of"
 msgstr ""
-"感谢您使用Everipedia。看来您已经用完了IQ令牌。您可以获得更多代币\n"
-"在其中之一"
+"感谢您使用Everipedia。您似乎已经用完了所有的IQ通证。您可以通过以下方式获得更多IQ"
+"通证\n"
 
 #. [ThirdBlock.ThanksToNewTechnology]
 #. defaultMessage is:
@@ -4283,8 +4282,8 @@ msgid ""
 "Thanks to new technology, it is now possible for Everipedia to move beyond "
 "Wikipedia just like how we moved beyond Britannica almost two decades ago."
 msgstr ""
-"借助新技术，Everipedia现在有可能超越Wikipedia，就像二十年前我们超越Britannica"
-"一样。"
+"借助新的技术，Everipedia现在有可能超越维基百科，就像二十年前我们超越大英百科全"
+"书一样。"
 
 #. [About.EncyclopediaOfEverything]
 #. defaultMessage is:
@@ -4295,7 +4294,7 @@ msgstr ""
 #: public/messages/src/app/containers/about/about.container.json
 #: public/messages/src/app/containers/contact-us/contact-us.container.json
 msgid "The Encyclopedia of Everything."
-msgstr "Everipedia，百科全书"
+msgstr "关于一切事物的百科全书"
 
 #. [About.TheEveripediaIQBlockchain]
 #. defaultMessage is:
@@ -4317,8 +4316,8 @@ msgid ""
 "economy to disrupt the old centralized internet knowledge encyclopedia model "
 "similar to Wikipedia"
 msgstr ""
-"Everipedia IQ区块链提供了一种新的范式变化和知识经济，以破坏类似于维基百科的旧"
-"的集中互联网知识百科全书模型"
+"Everipedia IQ区块链带来了一种全新的范式转移和知识经济，以打破类似于维基百科那样的落后"
+"的中心化的互联网知识百科全书模型"
 
 #. [Homepage.TheEncylopediaOfEverything]
 #. defaultMessage is:
@@ -4328,14 +4327,14 @@ msgstr ""
 #. The Wiki Encyclopedia for Everything, Everyone, Everywhere.
 #: public/messages/src/app/containers/homepageContainer/homepage.container.json
 msgid "The Wiki Encyclopedia for Everything, Everyone, Everywhere."
-msgstr "Wiki百科全书，每个人，每个地方。"
+msgstr "为任何事物、任何人，任何地点而生的Everipedia百科全书。"
 
 #. [InfoboxModal.TheInfoboxIsDesignedForConcise]
 #. defaultMessage is:
 #. The infobox is designed for concise, easy-to-access information.
 #: public/messages/src/editor/plugins/infobox/infobox-modal.json
 msgid "The infobox is designed for concise, easy-to-access information."
-msgstr "该信息框旨在提供简洁易用的信息。"
+msgstr "该信息框旨在提供简洁明了的信息。"
 
 #. [TeamInfo.TheodorForseliusBio]
 #. defaultMessage is:
@@ -4346,15 +4345,15 @@ msgid ""
 "founded Everipedia at the age of 20, gaining experience in digital "
 "advertising, web development, and online gaming industries in the process."
 msgstr ""
-"Theodor Forselius是瑞典的互联网企业家和程序员。他在20岁时与他人共同创立了"
-"Everipedia，并在此过程中获得了数字广告，网站开发和在线游戏行业的经验。"
+"Theodor Forselius是一位来自瑞典的互联网企业家和程序员。他在20岁时与朋友共同创立了"
+"Everipedia，并在此过程中掌握了许多数字广告，网站开发和在线游戏行业的经验。"
 
 #. [BoostBox.NoBoosts]
 #. defaultMessage is:
 #. There are currently no boosts for this page
 #: public/messages/src/app/components/Boost/index.json
 msgid "There are currently no boosts for this page"
-msgstr "此页面目前没有任何提升"
+msgstr "此页面目前没有任何助推"
 
 #. [SubmitVote.NoRecentEdits]
 #. defaultMessage is:
@@ -4370,21 +4369,21 @@ msgstr "最近没有对本文的编辑。成为第一个更新它的人。"
 #. There is no activity on this article.
 #: public/messages/src/app/components/Chat/ChatList.json
 msgid "There is no activity on this article."
-msgstr "本文没有任何活动。"
+msgstr "没有关于这篇文章的活动"
 
 #. [SaveModalAgain.ThereWasAnIssueRecording]
 #. defaultMessage is:
 #. There was an issue recording your edit.
 #: public/messages/src/editor/plugins/save/save-modal.json
 msgid "There was an issue recording your edit."
-msgstr "记录您的编辑时出现问题。"
+msgstr "记录您的编辑时出现问题"
 
 #. [IQInfo.DecentralizedBlurb]
 #. defaultMessage is:
 #. These exchanges do not require signup, only Scatter
 #: public/messages/src/app/containers/iq-info/iq-info.container.json
 msgid "These exchanges do not require signup, only Scatter"
-msgstr "这些交换不需要注册，只需分散"
+msgstr "这些交易所不需要注册，只需Scatter钱包"
 
 #. [IQInfo.CentralizedBlurb]
 #. defaultMessage is:
@@ -4394,14 +4393,14 @@ msgid ""
 "These exchanges require personal information for signup, but may have "
 "additional features and fiat currency deposits / withdrawals"
 msgstr ""
-"这些交易所需要用于注册的个人信息，但可能具有其他功能以及法定货币的存款/取款"
+"这些交易所需要用于注册的个人信息，但可能具有其他功能以及法币的充值/提现"
 
 #. [MetadataModal.Thing]
 #. defaultMessage is:
 #. Thing
 #: public/messages/src/editor/plugins/metadata/metadata-modal.json
 msgid "Thing"
-msgstr "事情"
+msgstr "事件"
 
 #. [SubmitVote.NotMostRecent]
 #. defaultMessage is:
@@ -4417,7 +4416,7 @@ msgstr "这不是本文的最新版本。在此处查看最新版本："
 #. This page is locked to new edits.
 #: public/messages/src/editor/editor.container.json
 msgid "This page is locked to new edits."
-msgstr "此页面已锁定为新修改。"
+msgstr "此页面已锁定到新的编辑。"
 
 #. [ActivityCard.TitleNotAvailable]
 #. defaultMessage is:
@@ -4439,7 +4438,7 @@ msgstr "标题不可用"
 #. To edit this article right now, use the desktop version of the site.
 #: public/messages/src/app/utils/errors.json
 msgid "To edit this article right now, use the desktop version of the site."
-msgstr "要立即编辑本文，请使用网站的桌面版本。"
+msgstr "如需即刻编辑此文，请使用该网站的桌面版。"
 
 #. [Errors.ToMakeAnEdit]
 #. defaultMessage is:
@@ -4454,9 +4453,9 @@ msgid ""
 "Everipedia’s full features,\n"
 "\t\t\t\t\t\tincluding voting on article edits and earning IQ rewards."
 msgstr ""
-"要进行编辑或创建文章，您需要一个Everipedia帐户。您可以注册一个\n"
-"使用社交帐户的试用帐户，或使用Scatter解锁Everipedia的全部功能，\n"
-"包括对文章编辑投票和获得IQ奖励。"
+"要进行编辑或创作文章，您需要一个Everipedia帐户。您通过社交账户注册一个"
+"或使用Scatter解锁Everipedia的全部功能，包括对文章编辑进行投票并获得IQ奖励。"
+
 
 #. [Dashboard.TotalBalance]
 #. defaultMessage is:
@@ -4477,14 +4476,14 @@ msgstr "总奖励"
 #. Transaction failed!
 #: public/messages/src/app/utils/wal-eos.json
 msgid "Transaction failed!"
-msgstr "交易失败！"
+msgstr "处理失败！"
 
 #. [SubmitProposal.TxSuccess]
 #. defaultMessage is:
 #. Transaction successful!
 #: public/messages/src/app/utils/wal-eos.json
 msgid "Transaction successful!"
-msgstr "交易成功"
+msgstr "处理成功"
 
 #. [TeamInfo.TravisMooreBio]
 #. defaultMessage is:
@@ -4496,9 +4495,9 @@ msgid ""
 "Everipedia after graduating from UCLA with degrees in Molecular Biology, "
 "Biochemistry, and Neuroscience in 2011."
 msgstr ""
-"特拉维斯·摩尔（Travis Moore）是来自意大利洛杉矶郊区Thousand Oaks的意大利裔美"
-"国计算机程序员，天使投资人和企业家。在2011年从UCLA毕业后，他与人共同创立了"
-"Everipedia，并获得了分子生物学，生物化学和神经科学学位。"
+"Travis Moore是一位是来自千橡树(Thousand Oaks)的美籍意大利计算机程序员、天使投资人和"
+"企业家。2011年从加州大学洛杉矶分校(UCLA)获得分子生物学、生物化学和神经科学三个学位后，"
+"与朋友共同创立了Everipedia。"
 
 #. [NewPageTemplate.NPT_Person_Trivia]
 #. defaultMessage is:
@@ -4539,7 +4538,7 @@ msgstr "重试"
 #: public/messages/src/app/components/Login/index.json
 #: public/messages/src/app/containers/wallet-login/wallet-login.container.json
 msgid "Try again"
-msgstr "再试一次"
+msgstr "重试"
 
 #. [ContactUs.Type]
 #. defaultMessage is:
@@ -4568,14 +4567,14 @@ msgstr "输入搜索…"
 #. URL Slug
 #: public/messages/src/editor/plugins/metadata/metadata-modal.json
 msgid "URL Slug"
-msgstr "URL Slug"
+msgstr "网址后缀"
 
 #. [MetadataModal.URLSlugAlt]
 #. defaultMessage is:
 #. URL Slug Alt
 #: public/messages/src/editor/plugins/metadata/metadata-modal.json
 msgid "URL Slug Alt"
-msgstr "URL Slug Alt"
+msgstr "网址后缀 Alt"
 
 #. [EditProfile.UndoChanges]
 #. defaultMessage is:
@@ -4625,7 +4624,7 @@ msgstr "上传中..."
 #. Uploading....
 #: public/messages/src/shared/inputs/image-uploader/file-uploader.component.json
 msgid "Uploading...."
-msgstr "上载中..."
+msgstr "上传中..."
 
 #. [ContentTopNav.Views]
 #. defaultMessage is:
@@ -4764,7 +4763,7 @@ msgstr "投票"
 #. Vote accepted
 #: public/messages/src/app/components/Chat/ChatItem.json
 msgid "Vote accepted"
-msgstr "接受投票"
+msgstr "投票被接受"
 
 #. [SubmitVoteConfirmation.VoteAmount]
 #. defaultMessage is:
@@ -4778,7 +4777,7 @@ msgstr "投票数量"
 #. Vote now
 #: public/messages/src/app/components/Chat/ChatItem.json
 msgid "Vote now"
-msgstr "现在投票"
+msgstr "立即投票"
 
 #. [SubmitVoteConfirmation.VoteOnChanges]
 #. defaultMessage is:
@@ -4846,14 +4845,14 @@ msgstr "周"
 #. WIKIS
 #: public/messages/src/app/containers/homepageContainer/stats.json
 msgid "WIKIS"
-msgstr "威基斯"
+msgstr "维基"
 
 #. [SaveModalAgain.WaitAMomentOneLynx]
 #. defaultMessage is:
 #. Wait a moment while we load Lynx.
 #: public/messages/src/editor/plugins/save/save-modal.json
 msgid "Wait a moment while we load Lynx."
-msgstr "加载Lynx时请稍等。"
+msgstr "加载Lynx中，请稍等"
 
 #. [LoginModal.WaitAMomentWhileWeLoad]
 #. defaultMessage is:
@@ -4863,8 +4862,8 @@ msgid ""
 "Wait a moment while we load Scatter – If you don’t see the Scatter window, "
 "check if it has loaded behind your current window."
 msgstr ""
-"等待我们加载Scatter的时间-如果您没有看到Scatter窗口，请检查它是否已加载到当前"
-"窗口的后面。"
+"正在加载Scatter，请稍等——如果您没有看到Scatter窗口，请检查它是否已经加载到当前窗"
+"口的后面。"
 
 #. [SaveModalAgain.txLoadScatter]
 #. defaultMessage is:
@@ -4874,7 +4873,7 @@ msgid ""
 "Wait a moment while we load Scatter.  If you do not see the Scatter window, "
 "check if it has loaded behind your current window."
 msgstr ""
-"等待一会儿，我们加载Scatter。如果看不到“散布”窗口，请检查它是否已加载到当前窗"
+"正在加载Scatter，请稍等——如果您没有看到Scatter窗口，请检查它是否已经加载到当前窗"
 "口的后面。"
 
 #. [SaveModalAgain.WaitAMomentOne]
@@ -4885,7 +4884,7 @@ msgid ""
 "Wait a moment while we load Scatter. If you don’t see the Scatter window, "
 "check if it has loaded behind your current window."
 msgstr ""
-"等待一会儿，我们加载Scatter。如果看不到“散布”窗口，请检查它是否已加载到当前窗"
+"正在加载Scatter，请稍等——如果您没有看到Scatter窗口，请检查它是否已经加载到当前窗"
 "口的后面。"
 
 #. [SaveModalAgain.txLoadLynx]
@@ -4893,7 +4892,7 @@ msgstr ""
 #. Wait a moment while we load the Lynx transaction window.
 #: public/messages/src/editor/plugins/save/save-modal.json
 msgid "Wait a moment while we load the Lynx transaction window."
-msgstr "请稍等，我们加载Lynx事务窗口。"
+msgstr "请稍等，我们正在加载Lynx交易窗口。"
 
 #. [SaveModalAgain.txLoadOreId]
 #. defaultMessage is:
@@ -4904,8 +4903,8 @@ msgid ""
 "to confirm your proposed edit.  You may be required to enter the pin that "
 "you created when you set up your account."
 msgstr ""
-"请稍等，我们正在加载您的帐户。您将被重定向到OreID，以确认您建议的修改。您可能"
-"需要输入在设置帐户时创建的密码。"
+"请稍等，我们正在加载您的帐户。您将被跳转至OreID，以确认您的编辑提议。您可能"
+"需要输入在设置帐户时创建的PIN码。"
 
 #. [SaveModalAgain.WaitAMomentTwo]
 #. defaultMessage is:
@@ -4916,8 +4915,8 @@ msgid ""
 "confirm your proposed edit. You may be required to enter the pin that you "
 "created when you set up your account."
 msgstr ""
-"请稍等，我们正在加载您的帐户。您将被重定向到OreID，以确认您建议的修改。您可能"
-"需要输入在设置帐户时创建的密码。"
+"请稍等，我们正在加载您的帐户。您将被跳转至OreID，以确认您的编辑提议。您可能"
+"需要输入在设置帐户时创建的PIN码。"
 
 #. [SubmitBoostModal.WaitAMomentWallet]
 #. defaultMessage is:
@@ -4931,8 +4930,8 @@ msgid ""
 "Wait a moment while we load your wallet. If you don’t see the wallet window, "
 "check if it has loaded behind your current window."
 msgstr ""
-"请稍等，我们正在加载您的钱包。如果您没有看到钱夹窗口，请检查它是否已加载到当"
-"前窗口的后面。"
+"请稍等，我们正在加载您的钱包。如果您没有看到钱包窗口，请检查它是否已加载到当前窗"
+"口的后面。"
 
 #. [SubmitBoostModal.WaitAMomentOREID]
 #. defaultMessage is:
@@ -4945,7 +4944,7 @@ msgstr ""
 msgid ""
 "Wait a moment while we redirect you to Ore ID.  You will be returned here "
 "once you have completed signing"
-msgstr "请稍等，我们会将您重定向到Ore ID。完成签名后，您将回到这里"
+msgstr "请稍等，我们会将您跳转至Ore ID。完成签名后，您将返回到这里"
 
 #. [EditorContainer.Warning]
 #. defaultMessage is:
@@ -4960,7 +4959,7 @@ msgstr "警告"
 #: public/messages/src/app/components/edit-profile/index.json
 msgid ""
 "Warning: Your public profile will be visible to everyone and stored on-chain"
-msgstr "警告：您的公开个人资料将对所有人公开，并存储在链上"
+msgstr "警告：您的公开个人资料将对公众可见，并存储在链上"
 
 #. [MergeModalAgain.WeReceivedTheFollowingError]
 #. defaultMessage is:
@@ -4992,7 +4991,7 @@ msgstr "欢迎"
 #. What article do you want to link to?
 #: public/messages/src/editor/plugins/ep-link-modal/ep-link-modal.json
 msgid "What article do you want to link to?"
-msgstr "您想链接到什么文章？"
+msgstr "您想链接到哪篇文章？"
 
 #. [AccountNameHeader.Worth]
 #. defaultMessage is:
@@ -5013,7 +5012,7 @@ msgstr "留言"
 #. Write a message...
 #: public/messages/src/app/components/Chat/messages.json
 msgid "Write a message..."
-msgstr "写信息..."
+msgstr "留言..."
 
 #. [ChatList.WriteYourMessageBelow]
 #. defaultMessage is:
@@ -5034,14 +5033,14 @@ msgstr "是"
 #. You are out of IQ.
 #: public/messages/src/app/components/SubmitVote/index.json
 msgid "You are out of IQ."
-msgstr "你没有智商。"
+msgstr "您的IQ用完了。"
 
 #. [IQInfo.YouCan]
 #. defaultMessage is:
 #. You can
 #: public/messages/src/app/containers/iq-info/iq-info.container.json
 msgid "You can"
-msgstr "您也可以通过单击此处创建新的 wiki 文章。"
+msgstr "您也可以通过单击此处创建新的维基文章。"
 
 #. [SubmitBoostModal.YouCan]
 #. defaultMessage is:
@@ -5050,7 +5049,7 @@ msgstr "您也可以通过单击此处创建新的 wiki 文章。"
 msgid ""
 "You can boost with any amount of IQ. Your future voting power increases the "
 "more you boost!"
-msgstr "您可以提高任何智商。您未来的投票权会增加，您获得的提升越多！"
+msgstr "您可以助推任意数量的IQ。您助推的IQ越多，您未来的投票权越大"
 
 #. [SubmitVoteConfirmation.YouCan]
 #. defaultMessage is:
@@ -5060,8 +5059,8 @@ msgid ""
 "You can vote with any amount of IQ.  If you vote with the majority, you will "
 "receive a reward that is proportional to the amount you vote!"
 msgstr ""
-"您可以以任何智商进行投票。如果您以多数票投票，您将获得与您投票额成正比的奖"
-"励！"
+"您可以以任意数量的IQ进行投票。如果您的投票最终处于多数票一方，您将获得与您投票数成"
+"正比的奖励！"
 
 #. [Notifications.NoNotifications]
 #. defaultMessage is:
@@ -5081,7 +5080,7 @@ msgstr "您还没有任何通知。"
 msgid ""
 "You may have received this error for a variety of reasons. The most common "
 "reasons:"
-msgstr "您可能由于多种原因收到了此错误。最常见的原因："
+msgstr "您可能由于多种原因遇到了该错误。最常见的原因："
 
 #. [Chat.YouMustBeLoggedIn]
 #. defaultMessage is:
@@ -5102,14 +5101,14 @@ msgstr "您必须登录才能投票"
 #. You need to make an edit before you can vote with your Ore ID account
 #: public/messages/src/app/components/SubmitVote/index.json
 msgid "You need to make an edit before you can vote with your Ore ID account"
-msgstr "您需要进行编辑才能使用您的矿石ID帐户进行投票"
+msgstr "您需要创作一条编辑之后才能使用您的Ore ID帐户进行投票"
 
 #. [SubmitBoostModal.YourBoostWasSuccessful]
 #. defaultMessage is:
 #. Your Boost was Successful
 #: public/messages/src/app/components/Boost/SubmitBoostModal.json
 msgid "Your Boost was Successful"
-msgstr "您的提升成功"
+msgstr "您的助推成功"
 
 #. [Directory.YourChats]
 #. defaultMessage is:
@@ -5130,7 +5129,7 @@ msgstr "您的编辑已成功提交以进行投票"
 #. Your Edit was not Submitted
 #: public/messages/src/editor/plugins/save/save-modal.json
 msgid "Your Edit was not Submitted"
-msgstr "您的修改未提交"
+msgstr "您的编辑未提交"
 
 #. [SubmitVoteConfirmation.YourVoteWasSuccessful]
 #. defaultMessage is:
@@ -5146,7 +5145,7 @@ msgstr "您的投票成功"
 msgid ""
 "Your active chats will be displayed here when you start conversations in "
 "articles."
-msgstr "当您开始文章中的对话时，您的活动聊天将显示在此处。"
+msgstr "当您在文章中开始对话时，您的活跃聊天将显示在此处。"
 
 #. [MergeModalAgain.YourEditWillNowBeVotedOn]
 #. defaultMessage is:
@@ -5161,8 +5160,8 @@ msgid ""
 "receive an IQ reward for your contribution.  The IQ Tokens that you used to "
 "propose your edit will be locked up (staked) for 21 days."
 msgstr ""
-"现在，您的编辑将由社区投票。如果被接受，您将为您的贡献获得IQ奖励。您以前建议"
-"进行编辑的IQ令牌将被锁定（收藏）21天。"
+"现在，您的编辑将由社区投票。如果被接受，您将因为您的贡献获得IQ奖励。您用于提议编辑的"
+"IQ通证将被锁定（质押）21天。"
 
 #. [IQInfo.AboutEOSandIQ]
 #. defaultMessage is:
@@ -5204,14 +5203,14 @@ msgstr "批准"
 #. born
 #: public/messages/src/editor/utils/editing-utils/template-packs/person.json
 msgid "born"
-msgstr "天生的"
+msgstr "出生"
 
 #. [IQInfo.BuyAndSellIQ]
 #. defaultMessage is:
 #. buy and sell IQ
 #: public/messages/src/app/containers/iq-info/iq-info.container.json
 msgid "buy and sell IQ"
-msgstr "买卖智商"
+msgstr "买卖IQ"
 
 #. [SaveModalAgain.Bytes]
 #. defaultMessage is:
@@ -5247,7 +5246,7 @@ msgstr "编辑"
 #: public/messages/src/app/components/Chat/ChatItem.json
 #: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
 msgid "edited"
-msgstr "已修改"
+msgstr "已编辑"
 
 #. [FileUploader.FileSizeTooBig]
 #. defaultMessage is:
@@ -5311,14 +5310,14 @@ msgstr "投票处"
 #. is an event that was first started on
 #: public/messages/src/editor/utils/editing-utils/template-packs/event.json
 msgid "is an event that was first started on"
-msgstr "是第一次开始的活动"
+msgstr "事件最初开始于"
 
 #. [NewPageTemplate.NPT_Place_IsKnownFor]
 #. defaultMessage is:
 #. is known for
 #: public/messages/src/editor/utils/editing-utils/template-packs/place.json
 msgid "is known for"
-msgstr "以着称"
+msgstr "而闻名"
 
 #. [FileUploader.IsNotASupportedFileExtension]
 #. defaultMessage is:
@@ -5329,7 +5328,7 @@ msgstr "以着称"
 #: public/messages/src/shared/inputs/image-uploader/file-uploader.component.json
 #: public/messages/src/shared/inputs/image-uploader/image-uploader.component.json
 msgid "is not a supported file extension"
-msgstr "不是受支持的文件扩展名"
+msgstr "不受支持的文件扩展名"
 
 #. [NewPageTemplate.NPT_Product_IsAProductCreatedOn]
 #. defaultMessage is:
@@ -5343,7 +5342,7 @@ msgstr "产品创建于"
 #. is work that was created on
 #: public/messages/src/editor/utils/editing-utils/template-packs/creative-work.json
 msgid "is work that was created on"
-msgstr "是创作于"
+msgstr "创作于"
 
 #. [ActivityCard.Merged2]
 #. defaultMessage is:
@@ -5357,7 +5356,7 @@ msgstr "合并"
 #. merged into this article.
 #: public/messages/src/app/components/SubmitVote/EditOverview.json
 msgid "merged into this article."
-msgstr "合并到本文中。"
+msgstr "合并到文章中。"
 
 #. [NewPageTemplate.NPT_Event_Offers]
 #. defaultMessage is:
@@ -5372,14 +5371,14 @@ msgstr "合并到本文中。"
 #: public/messages/src/editor/utils/editing-utils/template-packs/organization.json
 #: public/messages/src/editor/utils/editing-utils/template-packs/place.json
 msgid "offers"
-msgstr "报价"
+msgstr "提议"
 
 #. [IQInfo.OnTheseExchanges]
 #. defaultMessage is:
 #. on these exchanges
 #: public/messages/src/app/containers/iq-info/iq-info.container.json
 msgid "on these exchanges"
-msgstr "支持的交易所"
+msgstr "在这些交易所"
 
 #. [Login.Or]
 #. defaultMessage is:
@@ -5407,21 +5406,21 @@ msgstr "已移除"
 #. started his/her career at
 #: public/messages/src/editor/utils/editing-utils/template-packs/person.json
 msgid "started his/her career at"
-msgstr "在开始他的职业生涯"
+msgstr "开始他的职业生涯"
 
 #. [IQInfo.TalkToSomeone]
 #. defaultMessage is:
 #. talk to someone about getting started!
 #: public/messages/src/app/containers/iq-info/iq-info.container.json
 msgid "talk to someone about getting started!"
-msgstr "与某人谈起入门！"
+msgstr "与某人谈轮入门！"
 
 #. [Errors.TheseExchanges]
 #. defaultMessage is:
 #. these exchanges.
 #: public/messages/src/app/utils/errors.json
 msgid "these exchanges."
-msgstr "支持的交易所"
+msgstr "这些交易所"
 
 #. [MediaGallery.ToChooseAQualityImage]
 #. defaultMessage is:
@@ -5435,7 +5434,7 @@ msgstr "选择高质量的图像"
 #. to choose a quality image.
 #: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
 msgid "to choose a quality image."
-msgstr "选择高质量的图像。"
+msgstr "以选择高质量的图像。"
 
 #. [Directory.ToParticipate]
 #. defaultMessage is:
@@ -5508,14 +5507,14 @@ msgstr "票"
 #: public/messages/src/editor/utils/editing-utils/template-packs/creative-work.json
 #: public/messages/src/editor/utils/editing-utils/template-packs/product.json
 msgid "was created by"
-msgstr "由创建"
+msgstr "创建"
 
 #. [NewPageTemplate.NPT_Event_WasFormedBy]
 #. defaultMessage is:
 #. was formed by
 #: public/messages/src/editor/utils/editing-utils/template-packs/event.json
 msgid "was formed by"
-msgstr "由...组成"
+msgstr "组成"
 
 #. [NewPageTemplate.NPT_Organization_WasStartedBy]
 #. defaultMessage is:
