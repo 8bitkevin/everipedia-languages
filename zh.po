@@ -211,7 +211,7 @@ msgstr "接受"
 #. Accepted
 #: public/messages/src/app/components/SubmitVote/index.json
 msgid "Accepted"
-msgstr "已通过"
+msgstr "已接受"
 
 #. [Login.Account]
 #. defaultMessage is:
@@ -250,7 +250,7 @@ msgstr "有效助推"
 #: public/messages/src/app/containers/category-results/categoryResultCard.json
 #: public/messages/src/app/containers/searchResultsFull/searchCard.json
 msgid "Active Voting"
-msgstr "有效投票"
+msgstr "活跃投票"
 
 #. [Chat.ActivityThree]
 #. defaultMessage is:
@@ -363,7 +363,7 @@ msgstr "添加一个相关页面"
 #. Add and Add Another
 #: public/messages/src/editor/plugins/infobox/infobox-modal.json
 msgid "Add and Add Another"
-msgstr "添加并添加另一个"
+msgstr "添加并继续"
 
 #. [CitationModal.AddEditFile.AddAndInsert]
 #. defaultMessage is:
@@ -786,7 +786,7 @@ msgstr "抵制审查"
 #: public/messages/src/app/containers/iq-info/iq-info.container.json
 msgid "Centralized"
 msgstr ""
-"Everipedia 的 IQ 区块链网络带来了一个全新的范式转移和知识经济，以打破像维基百"
+"Everipedia的IQ区块链网络带来了一个全新的范式转移和知识经济，以打破像维基百"
 "科那样传统的中心化互联网知识百科全书模型。通过创建一种全新的激励结构和一个托管"
 "在区块链上的分布式后端，新的Everipedia知识库将能够改进维基百科的所有基础功能。"
 
@@ -1017,7 +1017,7 @@ msgstr "确认您使用的是最新版本的钱包。"
 msgid ""
 "Confirm that you have enough IQ in your wallet (50IQ required to submit at "
 "edit)"
-msgstr "确认您的钱包中有足够的IQ（编辑时需要质押50IQ）"
+msgstr "确认您的钱包中有足够的IQ（编辑时需要质押50个IQ）"
 
 #. [MergeModalAgain.ConfirmThatYouHaveSufficientEOS]
 #. defaultMessage is:
@@ -1101,7 +1101,7 @@ msgstr "联系我们"
 #. Content
 #: public/messages/src/app/utils/comment-utils.json
 msgid "Content"
-msgstr "内容"
+msgstr "目录"
 
 #. [Chat.CopyText]
 #. defaultMessage is:
@@ -1162,7 +1162,7 @@ msgstr "创建新的文章"
 #. Creation
 #: public/messages/src/editor/plugins/metadata/metadata-modal.json
 msgid "Creation"
-msgstr "创建"
+msgstr "创作"
 
 #. [MetadataModal.CreativeWorkArt]
 #. defaultMessage is:
@@ -1712,7 +1712,7 @@ msgstr ""
 #. Everipedia’s design and features have been built for the modern age.
 #: public/messages/src/app/containers/about/about.container.json
 msgid "Everipedia’s design and features have been built for the modern age."
-msgstr "Everipedia的设计和特性是为现代化而打造的。"
+msgstr "Everipedia的设计和功能是为现代化而打造的。"
 
 #. [ThirdBlock.VibrantCommunity]
 #. defaultMessage is:
@@ -1956,7 +1956,7 @@ msgstr "类型"
 #: public/messages/src/app/containers/about/last-block.json
 #: public/messages/src/app/containers/iq-info/iq-info.container.json
 msgid "Get IQ"
-msgstr "获得IQ"
+msgstr "获取IQ"
 
 #. [ContactUs.getStarted]
 #. defaultMessage is:
@@ -2141,7 +2141,7 @@ msgid ""
 "                                holder can also vote on upgrades and "
 "modifications to the system."
 msgstr ""
-"IQ通证为Everipedia网络提供了区动力。它们可用于为我们不断增长的知识库贡献内容，并"
+"IQ通证为Everipedia网络提供了驱动力。它们可用于为我们不断增长的知识库贡献内容，并"
 "投票支持/反对新文章和以及对现有文章的编辑。贡献者以IQ通证的形式获得奖励。此外，每"
 "位通证持有人还可以对系统的升级和改进进行投票"
 
@@ -2306,7 +2306,7 @@ msgstr "项目"
 #. Just getting started?
 #: public/messages/src/app/components/Login/login.modal.json
 msgid "Just getting started?"
-msgstr "刚着手？"
+msgstr "刚开始使用？"
 
 #. [TeamInfo.KedarIyerBio]
 #. defaultMessage is:
@@ -2345,7 +2345,7 @@ msgid ""
 "University. When he is not working on knowledge projects, he plays the Irish "
 "fiddle and homeschools his two boys."
 msgstr ""
-"拉里·桑格（Larry Sanger）是一名知识类项目开发人员。他名声大噪是因为他是维基百科的"
+"拉里·桑格（Larry Sanger）是一名知识类项目开发人员。他很出名是因为他曾是维基百科的"
 "联合创始人。他拥有俄亥俄州立大学哲学博士学位。在他的工作之余，他还是一位爱尔兰小提"
 "琴演奏家，并在家里教育他的两位小孩。"
 
@@ -3780,7 +3780,7 @@ msgstr "报告软件缺陷"
 #: public/messages/src/app/components/Footer/index.json
 #: public/messages/src/app/containers/contact-us/messages.json
 msgid "Report a Bug"
-msgstr "报告错误"
+msgstr "报告一个错误"
 
 #. [Stats.RestrictedArea]
 #. defaultMessage is:
@@ -3818,8 +3818,8 @@ msgid ""
 "integrate blockchain technology to an online knowledge base for the first "
 "time in history."
 msgstr ""
-"Sam Kazemian是一位伊朗裔美国互联网企业家和程序员。他自从在加州大学洛杉矶分校"
-"（UCLA）宿舍里组装了自制的CPU + GPU采矿设备之后，开启了加密货币之旅。他对行业"
+"Sam Kazemian是一位伊朗裔美国互联网企业家和程序员。他从在加州大学洛杉矶分校"
+"（UCLA）宿舍里组装了自制的CPU + GPU采矿设备之后，便开启了加密货币之旅。他对行业"
 "的激情促使他成为史上第一位将区块链技术融合到在线知识库中的创业者。"
 
 #. [SaveModalAgain.Save]
@@ -3880,7 +3880,7 @@ msgstr "查看更多博客文章"
 #. See something missing?
 #: public/messages/src/app/components/ArticleComponent/index.json
 msgid "See something missing?"
-msgstr "查看错过的消息？"
+msgstr "发现有内容缺失？"
 
 #. [MergeModalAgain.SeeYourEditOnABlockExplorer]
 #. defaultMessage is:
@@ -4222,14 +4222,14 @@ msgstr "热门"
 #. Table
 #: public/messages/src/editor/plugins/table/table-button.json
 msgid "Table"
-msgstr "材料表"
+msgstr "表格"
 
 #. [About.ModernAge]
 #. defaultMessage is:
 #. Taking the Online Encyclopedia into the Modern Age
 #: public/messages/src/app/containers/about/about.container.json
 msgid "Taking the Online Encyclopedia into the Modern Age"
-msgstr "将在线百科全书带入现代化"
+msgstr "将在线百科全书带入现代"
 
 #. [NewPageTemplate.NPT_Organization_Telephone]
 #. defaultMessage is:
@@ -4504,7 +4504,7 @@ msgstr ""
 #. Trivia
 #: public/messages/src/editor/utils/editing-utils/template-packs/person.json
 msgid "Trivia"
-msgstr "琐事"
+msgstr "生平"
 
 #. [SubmitBoostModal.TryAgain]
 #. defaultMessage is:
